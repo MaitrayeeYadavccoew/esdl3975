@@ -13,3 +13,10 @@ int sub(int p,int q)
 {
   return p-q;
 }
+
+//This is multipliation function
+int mul(int p, int q)
+{
+return p*q;
+}
+}
